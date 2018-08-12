@@ -16,4 +16,4 @@ Needless to say, I am working to change the forces that I directly control - nam
 
 ## For Potential Employers/Clients: How do I know you're actually capable of delivering what you say you can?
 
-Despite not having much source code to share, I have instead created a [Professional Portfolio](Portfolio/Readme.md). This document contains a showcase of systems I have designed and developed to solve a variety of business problems. These examples demonstrate the breadth and depth of my experience and capabilities.
+Despite not having much source code to share, I have instead created a [Professional Portfolio](../Portfolio/Readme.md). This document contains a showcase of systems I have designed and developed to solve a variety of business problems. These examples demonstrate the breadth and depth of my experience and capabilities.
