@@ -1,5 +1,7 @@
 # Where is more code?
 
+I would conservatively estimate that I've written several hundred thousand lines of code, touched several dozen systems and worked proficiently with languages/stacks ranging from Classic ASP, VB.NET, C#, JavaScript, TypeScript, Angular, T-SQL, WPF/XAML, and more. One might wonder why I don't have more code in my Github account? Read on for the answers...
+
 ## Short Answer
 
 The short answer is that I will be adding more code to [my GitHub account](https://github.com/markjsc) over the coming months and years, but I do not have any more public-facing code available to share at this time. See the Long Answer below for more details.
