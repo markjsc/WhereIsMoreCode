@@ -59,7 +59,7 @@ Mobile Workforce is designed to follow the Command and Query Responsibility Segr
 
 Mapping data is generated from the GIS system periodically and provided to the client in a similar fashion to data from the other systems, however due to business requirements there is no editing of map data allowed on the client.
 
-![Mobile Workforce System Data Flow](MobileWorkforceDataFlow.png)
+![Mobile Workforce System Data Flow](MobileWorkforceDataFlow.png "Mobile Workforce System Data Flow")
 
 ## Business Value
 
@@ -87,11 +87,12 @@ I was the sole developer for this project.
 This app uses AngularJS to consume the Facebook Graph API and an open-source AngularJS Service to encapsulate the logic for sending the browser to and from full-screen display mode. (See screenshots below)
 
 The main screen shows the list of available Albums, thumbnails of images from the selected Album, and options for the slideshow.
-![The main screen shows the list of available Albums, thumbnails of images from the selected Album, and options for the slideshow.](OpcSlideshowScreenshot1.jpg)
+
+![The main screen shows the list of available Albums, thumbnails of images from the selected Album, and options for the slideshow.](OpcSlideshowScreenshot1.jpg "The main screen shows the list of available Albums, thumbnails of images from the selected Album, and options for the slideshow.")
 
 The slideshow uses the browser's full-screen display mode. The current image's position is displayed at the top-left. Controls to pause, resume, or stop the show are at the top-right. If selected, the image's description is at the bottom.
 
-![The slideshow uses the browser's full-screen display mode. The current image's position is displayed at the top-left. Controls to pause, resume, or stop the show are at the top-right. If selected, the image's description is at the bottom.](OpcSlideshowScreenshot2.jpg)
+![The slideshow uses the browser's full-screen display mode. The current image's position is displayed at the top-left. Controls to pause, resume, or stop the show are at the top-right. If selected, the image's description is at the bottom.](OpcSlideshowScreenshot2.jpg "The slideshow uses the browser's full-screen display mode. The current image's position is displayed at the top-left. Controls to pause, resume, or stop the show are at the top-right. If selected, the image's description is at the bottom.")
 
 # Fulfillment System
 
@@ -111,17 +112,17 @@ I was the sole technical resource involved in designing and developing this syst
 # Architectural Details
 
 The Fulfillment System’s backend design is based on the Service Bus architectural pattern, which sends event-driven messages through a series of autonomous services. The services closely mirror the components of the business process, forming a pipeline through which order data is received, order details validated, inventory reserved, picking and shipping details assigned, and shipment confirmations sent to the customers. (See diagram below)
-![Fulfillment Service Components](FulfillmentServiceComponents.png)
+![Fulfillment Service Components](FulfillmentServiceComponents.png "Fulfillment Service Components")
 
 The Fulfillment System Management Application employs the MVVM (Model-View-ViewModel) architectural pattern leveraging WPF (Windows Presentation Foundation) as a user-interface technology. This combination, along with the sharing of business-layer code with the Fulfillment System’s backend codebase, provided a rapid development experience that allowed focus to remain on the business requirements rather than on tedious coding tasks. (See screenshots below)
 
 The Fulfillment System Management’s Dashboard shows Order activity and alerts operators of any errors.
 
-![The Fulfillment System Management’s Dashboard shows Order activity and alerts operators of any errors.](FulfillmentSystemManagementScreenshot1.jpg)
+![The Fulfillment System Management’s Dashboard shows Order activity and alerts operators of any errors.](FulfillmentSystemManagementScreenshot1.jpg "The Fulfillment System Management’s Dashboard shows Order activity and alerts operators of any errors.")
 
 The Fulfillment System Management’s Order Details screen shows all details for the selected order.
 
-![The Fulfillment System Management’s Order Details screen shows all details for the selected order.](FulfillmentSystemManagementScreenshot2.jpg)
+![The Fulfillment System Management’s Order Details screen shows all details for the selected order.](FulfillmentSystemManagementScreenshot2.jpg "The Fulfillment System Management’s Order Details screen shows all details for the selected order.")
 
 ## Business Value
 
@@ -152,11 +153,11 @@ Another key feature of the system was dynamic field-level auditing. A configurat
 
 This screen shows editing of an Engineering Work Request instance.
 
-![This screen shows editing of an Engineering Work Request instance.](EngineeringWorkRequestScreenshot1.jpg)
+![This screen shows editing of an Engineering Work Request instance.](EngineeringWorkRequestScreenshot1.jpg "This screen shows editing of an Engineering Work Request instance.")
 
 This shows the Column Change Config screen, used to configure the dynamic field-level Auditing.
 
-![This shows the Column Change Config screen, used to configure the dynamic field-level Auditing.](EngineeringWorkRequestScreenshot2.jpg)
+![This shows the Column Change Config screen, used to configure the dynamic field-level Auditing.](EngineeringWorkRequestScreenshot2.jpg "This shows the Column Change Config screen, used to configure the dynamic field-level Auditing.")
 
 ## Business Value
 
