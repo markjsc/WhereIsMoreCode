@@ -1,6 +1,6 @@
 # Where is more code?
 
-I would conservatively estimate that I've written several hundred thousand lines of code, touched several dozen systems and worked proficiently with languages/stacks ranging from Classic ASP, VB.NET, C#, JavaScript, TypeScript, Angular, T-SQL, WPF/XAML, and more. One might wonder why I don't have more code in my Github account? Read on for the answers...
+I would conservatively estimate that I've written several hundred thousand lines of code, designed or worked on several dozen systems and worked proficiently with languages/stacks ranging from Classic ASP, VB.NET, C#, JavaScript, TypeScript, Angular, T-SQL, WPF/XAML, and more. One might wonder why I don't have more code in my Github account? Read on for the answers...
 
 ## Short Answer
 
