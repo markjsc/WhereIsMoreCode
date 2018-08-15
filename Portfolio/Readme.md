@@ -68,9 +68,8 @@ This system provides a key piece of the company's long-term strategy to empower 
 
 # OPC Slideshow
 
-**OPC Slideshow** is a small, personal web-based project that presents contest entries during the monthly meetings of the Owensboro Photography Club. The original process was time-consuming, inconsistent, and involved individually resizing and editing each image to overlay a reference number. This app displays a full-screen slideshow of images from a selected Facebook album (using the albums owned by the logged-in user), and automatically overlays a number using styled HTML. Several options are available to control different aspects of the slideshow. This is available for viewing at: [http://
-opcslideshow.azurewebsites.net](http://
-opcslideshow.azurewebsites.net)
+**OPC Slideshow** is a small, personal web-based project that presents contest entries during the monthly meetings of the Owensboro Photography Club. The original process was time-consuming, inconsistent, and involved individually resizing and editing each image to overlay a reference number. This app displays a full-screen slideshow of images from a selected Facebook album (using the albums owned by the logged-in user), and automatically overlays a number using styled HTML. Several options are available to control different aspects of the slideshow. This is available for viewing at: http://
+opcslideshow.azurewebsites.net
 
 I was the sole developer for this project.
 
