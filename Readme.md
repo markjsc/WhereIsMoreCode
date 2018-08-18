@@ -12,10 +12,12 @@ I realize having a public-facing library of source code and/or a log of contribu
 
 Professionally, I have worked as an employee in two internal IT departments for the past 9 years - basically the entire time that Github has existed. Neither of my employers allowed sharing of the company's code as open-source. Additionally, I was not allowed to spend work time contributing to open-source projects.
 
-Personally, my family situation has been very demanding of my non-working hours during roughly the same time period (children born, wife's business became very time-consuming, etc.). Unfortunately, this also prevented me from having the same level of free-time that I did a decade earlier (before open-source contributions were ubiquitous or assumed).
+Personally, my family situation has been very demanding of my non-working hours during roughly the same time period (children born, wife's business became very time-consuming, [my hobby became a side business](https://johnstonimagery.myportfolio.com/), etc.). Unfortunately, this also prevented me from having the same level of free-time that I did a decade earlier (before open-source contributions were ubiquitous or assumed).
 
 Needless to say, I am working to change the forces that I directly control - namely, making some adjustments to personal priorities. I also will be repositioning myself in order to influence the forces that I do not directly control - namely, making some adjustments to my professional situation. I'm expecting that both changes will result in more open-source and professional-related social contributions going forward.
 
 ## For Potential Employers/Clients: How do I know you're actually capable of delivering what you say you can?
 
 Despite not having much source code to share, I have instead created a [Professional Portfolio](Portfolio/Readme.md). This document contains a showcase of systems I have designed and developed to solve a variety of business problems. These examples demonstrate the breadth and depth of my experience and capabilities.
+
+Additionally, I would love to have a conversation with you about my software design and development philosophies. These primarily center around optimizing software development teams by improving both the inner loop (individual developer's workflow) and the outer loop (flow of changes through the build, test, deployment, and monitoring lifecycle).
