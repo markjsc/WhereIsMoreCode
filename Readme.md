@@ -20,4 +20,4 @@ Needless to say, I am working to change the forces that I directly control - nam
 
 Despite not having much source code to share, I have instead created a [Professional Portfolio](Portfolio/Readme.md). This document contains a showcase of systems I have designed and developed to solve a variety of business problems. These examples demonstrate the breadth and depth of my experience and capabilities.
 
-Additionally, I would love to have a conversation with you about my software design and development philosophies. These primarily center around optimizing software development teams by improving both the inner loop (individual developer's workflow) and the outer loop (flow of changes through the build, test, deployment, and monitoring lifecycle).
+Additionally, I would love to have a conversation with you about my software design and development philosophies. These primarily center around optimizing software development teams by improving both the inner loop (creating, debugging, and testing the code) and the outer loop (flow of changes through the build, test, deployment, and monitoring lifecycle).
